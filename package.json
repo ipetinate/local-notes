@@ -1,0 +1,11 @@
+{
+  "name": "local-notes",
+  "author": {
+    "email": "idptinate@gmail.com",
+    "name": "Isac Petinate",
+    "url": "https://github.com/ipetinate"
+  },
+  "description": "Local Notes app for browser made with TS",
+  "version": "0.0.1",
+  "homepage": "https://local-notes.netlify.app"
+}
